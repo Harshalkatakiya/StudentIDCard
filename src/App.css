@@ -1,0 +1,29 @@
+.card {
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.card-header {
+  display: flex;
+}
+
+img {
+  margin-left: 250px;
+  cursor: pointer;
+}
+
+span {
+  font-weight: 700;
+  font-size: x-large;
+}
+
+.form-control {
+  border-left-width: 5px;
+  border-left-color: orange;
+}
+
+p {
+  font-size: medium;
+  font-weight: 500;
+}
